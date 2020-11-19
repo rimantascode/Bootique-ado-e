@@ -1,0 +1,1 @@
+web: gunicorn bootique_ado_e.wsgi:application
